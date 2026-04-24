@@ -1,0 +1,14 @@
+<DOCTYPE html>
+<html>
+<body>
+<h1>javascript operators</h1>
+<h2>the assignment (=)operator</h2>+
+<p id = "demo"></p>
+<script>
+let x = 5;
+let y = 3;
+let z =x+y;
+document getElementBy ID("demo")
+</script>
+</body>
+</html>
