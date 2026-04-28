@@ -1,0 +1,13 @@
+<!DOCTYPE html> 
+    <html>
+        <body>
+            <h2> java script DOOM</h2>
+            <p id ="into"> find by id</p>
+            <p>shows <b>getelementsbyid</b>method</p>
+            <p id="demo">Demo</p>
+            <script>
+                const element = document .getelemntbyid("intro");
+                document.getelementbyid("demo").innerhtml ="text from into para"+element.innerhtml;
+            </script>
+        </body>
+    </html>
